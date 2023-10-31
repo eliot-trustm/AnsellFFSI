@@ -1,0 +1,232 @@
+body {
+	font-family: Verdana;
+	font-size: 12pt;
+	font-style: normal;
+	color: #683186;
+	background : White;
+}
+
+h1 {
+
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+h2 {
+
+	font-size: 15pt;
+	font-weight: bold;
+
+}
+h3 {
+	font-size: 12pt;
+	font-weight: bold;
+
+}
+
+h4 {
+	font-size: 12pt;
+
+}
+
+P {
+	font-size: 12pt;
+	font-style: normal;
+
+}
+
+
+PRE
+ {
+	font-family: Verdana;
+	font-size: 12pt;
+	font-style: normal;
+
+}
+
+a:active 
+{
+	font-size: 12pt;
+	font-weight: normal;
+	color: Fuchsia;
+	text-decoration: underline
+}
+
+a:hover {
+	font-size: 12pt;
+	color: #319CFF;
+	font-weight : normal;
+}
+
+a:visited {
+
+	font-size: 12pt;
+	text-decoration: underline;
+	color: Gray;
+}
+
+.menuActive
+{
+
+	font-size: 12pt;
+	font-weight: bold;
+	color: Gray;
+	text-decoration: none
+}
+
+.path 
+{
+font-size: 9pt; 
+color: 00814a; 
+text-decoration: underline; 
+font-style: normal; 
+font-weight: lighter; 
+text-transform: lowercase
+}
+
+
+
+li {  
+
+font-size: 9pt; 
+font-style: normal; 
+color: 2d2a63; 
+list-style-position: outside;
+list-style-color: 00814a
+; clip:   rect(   )
+; padding-bottom: 5px
+; padding-top: 0px
+}
+
+ul {  
+
+font-size: 9pt; 
+font-style: normal; 
+color: 2d2a63; 
+list-style-position: outside; 
+list-style-type: disc;
+list-style-color: 00814a
+; padding-top: 0px; padding-bottom: 0px
+}
+a {
+	font-size: 12pt;
+	font-style: normal;
+	color: #144384;
+	text-decoration: underline
+}
+.subSection { 
+
+ font-size: 11pt; 
+ font-style: italic; 
+ font-weight: bold; 
+ color: 00814a; 
+ text-indent: 20pt; 
+ margin-bottom: 0px; 
+ padding-bottom: 0px
+ }
+.subBold {  
+
+font-size: 9pt; 
+font-weight: bold; 
+color: 00814a
+}
+.blueBold {  
+
+font-size: 9pt; 
+font-weight: bold; 
+color: 2d2a63
+}
+.subHeader { 
+
+font-size: 11pt; 
+font-weight: bold; 
+color: 00814a
+}
+.pathLine {  
+
+font-size: 9pt; 
+color: 00814a
+}
+th { 
+
+font-size: 10pt; 
+font-weight: bold; 
+color: 00814a; 
+border-color: #FFFFFF; 
+background-color: #B5FFDF
+}
+ol { 
+
+ font-size: 9pt; color: 2d2a63; 
+ list-style-position: outside; 
+ list-style-type: decimal; 
+ padding-top: 0px
+ }
+.sitesubhead {  
+
+text-decoration: none;
+font-size: 11pt; 
+font-weight: bold; 
+color: 2d2a63;
+}
+.sitesubhead:hover {  
+
+text-decoration: underline;
+font-size: 11pt; 
+font-weight: bold; 
+color: 2d2a63;
+}
+.sitesubhead:visited {  
+
+font-size: 11pt; 
+font-weight: bold; 
+color: 2d2a63;
+}
+.sitesublink {  
+
+text-decoration: none;
+font-size: 9pt; 
+font-weight: normal; 
+color:  00814a;
+}
+.sitesublink:hover {  
+
+text-decoration: underline;
+font-size: 9pt; 
+font-weight: normal; 
+color: 2d2a63;
+}
+.sitesublink:visited {  
+
+font-size: 9pt; 
+font-weight: normal; 
+color: 2d2a63;
+}
+.nav {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10pt; 
+	COLOR: #ffffff; 
+
+	text-decoration: none;
+}
+.nav:hover {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10pt; 
+	COLOR: #ffffff; 
+
+	text-decoration: none;
+}
+.nav:visited {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10pt; 
+	COLOR: #ffffff; 
+
+	text-decoration: none;
+}
+.nav:active {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 10pt; 
+	COLOR: #ffffff; 
+
+	text-decoration: none;
+}
